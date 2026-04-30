@@ -32,7 +32,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) to view the application.
+Open [http://localhost:3000/avatar/[avatar_id]](http://localhost:3000) to view the application.
 
 ## What This Example Does
 
